@@ -1,0 +1,1674 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>我爱辅助游戏论坛_www.52fzba.com</title>
+<!--公用文件-->
+<script type='text/javascript' src='http://js.adm.cnzz.net/js/abase.js'></script>
+<style>
+.locked {
+height: 161px;
+padding: 0px;
+background: #FFF url(http://ww3.sinaimg.cn/large/dc9e57cbjw1ebkpqqn5o2j20bj04haae.jpg) no-repeat right bottom !important;
+border-radius: 5px !important;
+width: 415px !important;
+text-indent: 15px;
+line-height: 160px;
+overflow: hidden;
+-webkit-transition: all 0.3s linear 0s;
+-moz-transition: all 0.3s linear 0s;
+-o-transition: all 0.3s linear 0s;
+transition: all 0.3s linear 0s;
+}
+
+.locked:hover {
+background: #FFF url(http://ww2.sinaimg.cn/large/dc9e57cbjw1ebkq3m54fij20bj04hjrn.jpg) no-repeat right bottom !important;
+}
+</style>
+<!-- 请置于所有广告位代码之前 -->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<!-- 百度统计代码 -->
+<!-- 请置于所有广告位代码之前 -->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<!-- 百度广告管家代码 -->
+<script type="text/javascript">
+	(function(){
+	    _fmOpt = {
+	        partner: '52fzba_com',
+	        appName: '52fzba_com_web',
+	        token: '71etbtqbm5hdj8j74f0csts2d7'
+	    };
+	    var cimg = new Image(1,1);
+	    cimg.onload = function() {
+	        _fmOpt.imgLoaded = true;
+	    };
+	    cimg.src = "https://fp.fraudmetrix.cn/fp/clear.png?partnerCode=52fzba_com&appName=52fzba_com_web&tokenId=" + _fmOpt.token;
+	    var fm = document.createElement('script'); fm.type = 'text/javascript'; fm.async = true;
+	    fm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'static.fraudmetrix.cn/fm.js?ver=0.1&t=' + (new Date().getTime()/3600000).toFixed(0);
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fm, s);
+	})();
+	</script>
+<meta name="keywords" content="我爱辅助" />
+<meta name="description" content="我爱辅助游戏论坛是综合交流当下比较热门小游戏的交流论坛在这里你可以畅游游戏给您带来的快乐，与他人分享。 " />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2012 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://www.52fzba.com/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?TUo" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_index.css?TUo" /><link rel="stylesheet" id="css_extstyle" type="text/css" href="./template/default/style/t5/style.css" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'TUo', charset = 'gbk', discuz_uid = '346963', cookiepre = 'qwJR_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login|newthread', creditnotice = '1|威望|点,2|金钱|枚,3|贡献|点,4|游币|个,5|好评度|点', defaultstyle = './template/default/style/t5', REPORTURL = 'aHR0cDovL3d3dy41MmZ6YmEuY29tLw==', SITEURL = 'http://www.52fzba.com/', JSPATH = 'data/cache/';</script>
+<script src="data/cache/common.js?TUo" type="text/javascript"></script>
+<meta name="application-name" content="我爱辅助论坛" />
+<meta name="msapplication-tooltip" content="我爱辅助论坛" />
+<meta name="msapplication-task" content="name=论坛首页;action-uri=http://www.52fzba.com/forum.php;icon-uri=http://www.52fzba.com/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=家族;action-uri=http://www.52fzba.com/group.php;icon-uri=http://www.52fzba.com/static/image/common/group.ico" /><script src="data/cache/forum.js?TUo" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_index" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://www.52fzba.com/');">设为首页</a><a href="http://www.52fzba.com/"  onclick="addFavorite(this.href, '我爱辅助论坛');return false;">收藏本站</a><script type="text/javascript">var _speedMark = new Date();</script><a href="http://www.52fzba.com/home.php?mod=spacecp&ac=plugin&id=iplus_gezi:adlist">我的广告</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+<a id="sslct" href="javascript:;" onmouseover="delayShow(this, function() {showMenu({'ctrlid':'sslct','pos':'34!'})});">切换风格</a></div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="http://www.52fzba.com/home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+<li><a href="http://www.52fzba.com/home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+<li><a href="http://www.52fzba.com/home.php?mod=space&amp;do=notice&amp;view=system"><em class="notice_system"></em>系统提醒(<span class="rq">1</span>)</a></li>
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="sslct_menu" class="cl p_pop" style="display: none;">
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t5')" title="蓝"><i style='background:#0053B9'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t4')" title="紫"><i style='background:#9934B7'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t2')" title="青"><i style='background:#429296'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t1')" title="红"><i style='background:#BA350F'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t3')" title="橙"><i style='background:#FE9500'></i></span>
+</div>
+<ul id="myitem_menu" class="p_pop" style="display: none;">
+<li><a href="http://www.52fzba.com/forum.php?mod=guide&amp;view=my">帖子</a></li>
+<li><a href="http://www.52fzba.com/home.php?mod=space&amp;do=favorite&amp;view=me">收藏</a></li>
+<li><a href="http://www.52fzba.com/home.php?mod=space&amp;do=friend">好友</a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="http://www.52fzba.com/home.php?mod=space&do=friend" style="background-image:url(http://www.52fzba.com/static/image/feed/friend_b.png) !important">好友</a></li>
+<li><a href="http://www.52fzba.com/forum.php?mod=guide&view=my" style="background-image:url(http://www.52fzba.com/static/image/feed/thread_b.png) !important">帖子</a></li>
+<li><a href="http://www.52fzba.com/home.php?mod=space&do=favorite&view=me" style="background-image:url(http://www.52fzba.com/static/image/feed/favorite_b.png) !important">收藏</a></li>
+<li><a href="http://www.52fzba.com/home.php?mod=magic" style="background-image:url(http://www.52fzba.com/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="http://www.52fzba.com/home.php?mod=medal" style="background-image:url(http://www.52fzba.com/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="http://www.52fzba.com/home.php?mod=task" style="background-image:url(http://www.52fzba.com/static/image/feed/task_b.png) !important">任务</a></li>
+<li><a href="http://www.52fzba.com/home.php?mod=space&do=blog" style="background-image:url(http://www.52fzba.com/static/image/feed/blog_b.png) !important">日志</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="http://www.52fzba.com/" title="我爱辅助论坛"><img src="http://www.52fzba.com/LOGO1.png" alt="我爱辅助论坛" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=346963"><img src="http://uc.52fzba.com/data/avatar/000/34/69/63_avatar_small.jpg" onerror="this.onerror=null;this.src='http://uc.52fzba.com/images/noavatar_small.gif'" /></a></div>
+<p>
+<strong class="vwmy qq"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=346963" target="_blank" title="访问我的空间">伤怀_留旧冷ORZ</a></strong>
+<span class="pipe" id="signPipe">|</span><a id="signLink" title="您已累积签到8次，当前已连续签到1天。" onclick="showWindow('sign','plugin.php?id=lezhi99_lottery&view=sign','get',0);" href="javascript:void();" style="color:#eb1f1f;">签到抽奖</a> <span class="pipe">|</span><a href="javascript:;" id="myitem" class="showmenu" onmouseover="showMenu({'ctrlid':'myitem'});">我的</a>
+<span class="pipe">|</span><a href="http://www.52fzba.com/home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="http://www.52fzba.com/home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="http://www.52fzba.com/home.php?mod=space&amp;do=notice" id="myprompt" class="a showmenu new" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒(1)</a><span id="myprompt_check"></span>
+<script language="javascript">delayShow($('myprompt'), function() {showMenu({'ctrlid':'myprompt','duration':3})});</script><span class="pipe">|</span><a href="http://www.52fzba.com/portal.php?mod=portalcp">模块管理</a>
+<span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=feec2c15">退出</a>
+</p>
+<p>
+<a href="http://www.52fzba.com/home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 20</a>
+<span class="pipe">|</span><a href="http://www.52fzba.com/home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 后起之秀</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="http://www.52fzba.com/forum.php" hidefocus="true" title="BBS"  >论坛首页<span>BBS</span></a></li><li id="mn_N5db4" ><a href="http://www.52fzba.com/plugin.php?id=dsu_paulsign:sign" hidefocus="true"  >每日签到</a></li><li id="mn_Na5ac" ><a href="http://www.52fzba.com/home.php?mod=medal" hidefocus="true"  >勋章中心</a></li><li id="mn_Nfcbc" ><a href="http://www.52fzba.com/home.php?mod=spacecp&ac=credit&op=exchange" hidefocus="true"  >兑换威望</a></li><li id="mn_N55a8" ><a href="http://www.52fzba.com/misc.php?mod=faq" hidefocus="true"  >站点帮助</a></li></ul>
+</div>
+<ul class="p_pop h_pop" id="plugin_menu" style="display: none">  <li><a href="plugin.php?id=dsu_paulsign:sign" id="mn_plink_sign">每日签到</a></li>
+   <li><a href="plugin.php?id=lezhi99_lottery:lezhi99_lottery" id="mn_plink_lezhi99_lottery">乐智抽奖</a></li>
+ </ul>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div class="a_mu"><script type="text/javascript">
+    /*960*25 首页云标签*/
+    var cpro_id = "u1627826";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+<!-- 广告位：首页广告 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("690247");</script></div><div id="scbar" class="scbar_narrow cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="feec2c15" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::index" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%BD%D6%BB%FA%C8%FD%B9%FA&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">街机三国</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C9%F1%BD%AB%CA%C0%BD%E7&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">神将世界</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C9%F1%BD%AB%C8%FD%B9%FA&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">神将三国</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C4%A7%BD%A3%C8%FD%B9%FA&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">魔剑三国</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%BD%D6%BB%FA%C8%FD%B9%FA%B8%A8%D6%FA&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">街机三国辅助</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C8%FD%B9%FA%BF%EC%B4%F2&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">三国快打</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%B7%B2%C8%CB%D0%DE%D5%E62&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">凡人修真2</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C3%B0%CF%D5%C6%F5%D4%BC&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">冒险契约</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D7%ED%CE%F7%D3%CE&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">醉西游</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%BF%EC%B4%F2%C8%FD%B9%FA&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">快打三国</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%BD%D6%BB%FA%C8%FD&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">街机三</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%B4%B4%CA%C0%C8%FD%B9%FA&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">创世三国</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=QQ%B2%BF%C2%E4&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">QQ部落</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C3%CE%BB%C3%C8%FD%B9%FA&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">梦幻三国</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%B0%D4%D3%F2&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">霸域</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%BF%C9%C0%D6%C8%FD%B9%FA&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">可乐三国</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%BB%FA%BC%D7%D0%A1%D7%D3&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">机甲小子</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D3%C2%CA%BF%B5%C4%D0%C5%D1%F6&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">勇士的信仰</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%C1%FA%B6%B7%CA%BF&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">龙斗士</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%BB%FA%BC%D7%D0%FD%B7%E7&amp;formhash=feec2c15&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">机甲旋风</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+
+<link rel="stylesheet" type="text/css" href="source/plugin/iplus_gezi/images/style2.css" />
+
+<div class="wp cl">
+<div class="GzList" style="margin-top:10px">
+    
+    <ul class="hover">
+<li><a rel="nofollow" href="http://wpa.qq.com/msgrd?V=3&uin=25587237" target="_blank" style="color:#0000FF;font-weight: bold;">点击购买广告位</a></li>
+
+<li><a rel="nofollow" href="http://www.wmkameng.com/" target="_blank" style="color:#FF0000;font-weight: bold;">QQ会员5元/月LOL皮肤三折起</a></li>
+
+<li><a href="plugin.php?id=iplus_gezi:buy" onclick="showWindow('iplus_gezi', this.href);return false;" style="color:#333333;">点击自助购买广告位</a></li>
+
+<li><a href="plugin.php?id=iplus_gezi:buy" onclick="showWindow('iplus_gezi', this.href);return false;" style="color:#333333;">点击自助购买广告位</a></li>
+
+<li><a href="plugin.php?id=iplus_gezi:buy" onclick="showWindow('iplus_gezi', this.href);return false;" style="color:#333333;">点击自助购买广告位</a></li>
+
+<li><a href="plugin.php?id=iplus_gezi:buy" onclick="showWindow('iplus_gezi', this.href);return false;" style="color:#333333;">点击自助购买广告位</a></li>
+
+<li><a href="plugin.php?id=iplus_gezi:buy" onclick="showWindow('iplus_gezi', this.href);return false;" style="color:#333333;">点击自助购买广告位</a></li>
+
+<li><a href="plugin.php?id=iplus_gezi:buy" onclick="showWindow('iplus_gezi', this.href);return false;" style="color:#333333;">点击自助购买广告位</a></li>
+
+<li><a href="plugin.php?id=iplus_gezi:buy" onclick="showWindow('iplus_gezi', this.href);return false;" style="color:#333333;">点击自助购买广告位</a></li>
+
+<li><a href="plugin.php?id=iplus_gezi:buy" onclick="showWindow('iplus_gezi', this.href);return false;" style="color:#333333;">点击自助购买广告位</a></li>
+
+    </ul>
+    
+</div>
+</div>
+
+<script>var auxiliary = {
+    prefix: 'hm_t_',
+    createDiv: function (id) {
+        var div = document.createElement('div');
+        div.setAttribute('id', this.prefix+id);
+        div.setAttribute('class', 'wp');
+        return div;
+    },
+    divExists: function (id) {
+       return null != document.getElementById(this.prefix+id);
+    }
+    
+};
+document.onreadystatechange = function (){
+    if(document.readyState == 'complete'){
+        
+    }
+}
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?6b92a602712df3f78bca96f13da7346c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();</script>
+<div id="wp" class="wp">
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">我爱辅助论坛</a><em>&raquo;</em><a href="http://www.52fzba.com/forum.php">论坛首页</a></div>
+<div class="z">
+<iframe id="connectlike" allowtransparency="true" scrolling="no" border="0" width="280" height="25" frameborder="0"></iframe>
+<script type="text/javascript">_attachEvent(window, 'load', function () { $('connectlike').src = 'api/connect/like.php';}, document);</script>
+</div>
+</div>
+
+
+
+<style id="diy_style" type="text/css"></style>
+
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="chart" class="bm bw0 cl">
+<p class="chart z">今日: <em>566</em><span class="pipe">|</span>昨日: <em>14388</em><span class="pipe">|</span>帖子: <em>2260286</em><span class="pipe">|</span>会员: <em>533874</em><span class="pipe">|</span>欢迎新会员: <em><a href="http://www.52fzba.com/home.php?mod=space&amp;username=zhangtao" target="_blank" class="xi2">zhangtao</a></em></p>
+<div class="y">
+<a href="http://www.52fzba.com/forum.php?mod=guide&amp;view=my" title="我的帖子" class="xi2">我的帖子</a><span class="pipe">|</span><a href="http://www.52fzba.com/forum.php?mod=guide&amp;view=new" title="最新回复" class="xi2">最新回复</a></div>
+</div>
+<!--[diy=diy_chart]--><div id="diy_chart" class="area"></div><!--[/diy]-->
+<div class="mn">
+
+
+<script src="source/plugin/zb7com_nge/template/default/images/title.js" type="text/javascript"></script>
+<style type="text/css">
+#nge_wrap{border:1px solid #CDCDCD;border-top:1px solid #C2D5E3;border-left:none;margin-bottom:8px;}
+.nge_header{background:url('static/image/common/titlebg.png') repeat-x;text-align:center;font-weight:bold;height:31px;line-height:31px;border-bottom:1px solid #C2D5E3;}
+
+.nge_border{border-left:solid 1px #ddd;}
+
+#nge_con{margin-left:270px;}
+#nge_pic{float:left;width:270px;margin-left:-270px;overflow:hidden;}
+#nge_threads{width:100%;float:left;overflow:hidden;background:url('static/image/common/titlebg.png') repeat-x;}
+.nge_thread{width:33%;float:left;}
+
+#nge_user_y {float:left;width:200px;margin-right:-200px;}
+#nge_user_y img{width:14px;height:14px;margin:0px 5px 0px 0px;}
+#nge_user_y em{color:#444}
+
+#nge_user_x{width:100%;overflow:hidden;white-space:nowrap;margin:0px 0px 8px 0px;}
+
+#nge_user_x .avts{width:100%;overflow:hidden;white-space:nowrap;}
+#nge_user_x .avts li{float:left;display:inline;margin-left:5px;width:54px;overflow:hidden;white-space:nowrap;text-align:center;}
+#nge_user_x .avts .xtitle{
+border: 1px solid #ccc;
+border-radius:3px;
+    display: inline;
+    float: left;
+    width: 14px;
+white-space:normal;
+font-family:"microsoft yahei";
+margin:0px;text-align:center;
+}
+#nge_user_x .avts span{display:block;width:100%;overflow:hidden;white-space:nowrap;height:20px;line-height:20px;}
+#nge_user_x .avts img{
+-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-color: #F2F2F2 #CDCDCD #CDCDCD #F2F2F2;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    height: 48px;
+    padding: 2px;
+    width: 48px;
+}
+
+#nge_user_x .users{width:100%;overflow:hidden;white-space:nowrap;}
+#nge_user_x .users a {margin-left:12px;}
+#nge_user_x .users span{color:#444}
+#nge_user_x .users .xtitle{
+font-weight:bold;
+font-family:"microsoft yahei";
+margin:0px;
+color:#333;
+}
+
+.popupmenu_popup {
+background:none repeat scroll 0 0 #FEFEFE;
+border:1px solid #7FCAE2;
+overflow:hidden;
+padding:10px;
+text-align:left;
+}
+
+.ng_list_bg ol{background:url('./source/plugin/zb7com_nge/template/default/images/list.gif') no-repeat;}
+.ng_list_bg ol li{line-height:20px;height:20px;margin:0px;}
+</style>
+<div id="nge_wrap">
+
+<div id="nge_con">
+
+<div id="nge_pic">
+<div class="nge_border">
+<div class="nge_header">论坛图片</div>
+<div style="width:100%;">
+<script type="text/javascript">
+          var config = "6|0xffffff|#0099FF|50|0xffffff|#0099FF|0x000000";
+          var files = "http%3A%2F%2Fimg.52fzba.com%2Fdata%2Fattachment%2Ftemp%2Fe63272afda9d72b7a7de1644e0b939ee.jpg|http%3A%2F%2Fimg.52fzba.com%2Fdata%2Fattachment%2Ftemp%2Fec4fbaffec09c901ecb420faaafd44d1.jpg|http%3A%2F%2Fimg.52fzba.com%2Fdata%2Fattachment%2Ftemp%2Fe73705c903cd82e34a53c27f43ca6e5f.jpg|http%3A%2F%2Fimg.52fzba.com%2Fdata%2Fattachment%2Ftemp%2F1aeb42c7311c7272fabb8da4b2587f95.jpg|http%3A%2F%2Fimg.52fzba.com%2Fdata%2Fattachment%2Ftemp%2F1c5b2fa40a32a22545d335a5ed1ad5d0.jpg|http%3A%2F%2Fimg.52fzba.com%2Fdata%2Fattachment%2Ftemp%2F9c9a05dbe259ee628fc78beee291b51c.jpg";
+          var links = "forum.php%3Fmod%3Dviewthread%26tid%3D4475224|forum.php%3Fmod%3Dviewthread%26tid%3D4475194|forum.php%3Fmod%3Dviewthread%26tid%3D4474574|forum.php%3Fmod%3Dviewthread%26tid%3D4474523|forum.php%3Fmod%3Dviewthread%26tid%3D4470037|forum.php%3Fmod%3Dviewthread%26tid%3D4470027";
+          var texts = "枪林弹雨柠熙4.0正式版辅助|抢劫--英语中字HD高清720P---百度云在线播放|玩命速递：重启之战 1080P  百度云在线播放+BT|笔仙魔咒-----高清   百度云在线播放+BT|看英魂之刃CPL联赛直播观战100%领Q币 抽三星手机|LOL特权126英雄皮肤免费";
+          document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="270" height="210">');
+          document.write('<param name="movie" value="source/plugin/zb7com_nge/template/default/images/focus.swf" />');
+          document.write('<param name="quality" value="high" />');
+          document.write('<param name="menu" value="false" />');
+          document.write('<param name="wmode" value="transparent" />');
+          document.write('<param name="FlashVars" value="config='+config+'&bcastr_flie='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'" />');
+          document.write('<embed src="source/plugin/zb7com_nge/template/default/images/focus.swf" wmode="opaque" FlashVars="config='+config+'&bcastr_flie='+files+'&bcastr_link='+links+'&bcastr_title='+texts+'" menu="false" quality="high" width="270" height="210" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />');
+          document.write('</object>');
+        </script>
+        </div>
+        </div>
+</div>
+
+<div id="nge_threads"><div class="nge_thread">
+<div class="nge_border">
+<div class="nge_header">最新帖子</div>
+<div class="module cl xl xl1 ng_list_bg"  style="padding:5px;">
+            <ol>              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=326971" target="_blank" style="color:#444">[ 风吹出百花]</a></em>
+  <a href="http://www.52fzba.com/thread-4476248-1-1.html"  target="_blank"  title="版块: 疑问求助
+标题: 最近玩了个叫王牌对决的游戏 请问有人会双开么
+发表:  风吹出百花 (2015-11-22 09:40)
+浏览: 0次
+回复:   风吹出百花 (2015-11-22 09:40)
+回复: 0次" name="xxx">最近玩了个叫王牌对决的游戏 请 ...</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=37798" target="_blank" style="color:#444">[丿煞彡翼]</a></em>
+  <a href="http://www.52fzba.com/thread-4476147-1-1.html"  target="_blank"  title="版块: 英雄联盟
+标题: 求lol月光宝盒v3 5.21 A破解办
+发表: 丿煞彡翼 (2015-11-22 09:32)
+浏览: 13次
+回复:  102384026152 (2015-11-22 09:54)
+回复: 3次" name="xxx">求lol月光宝盒v3 5.21 A破解办</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=305317" target="_blank" style="color:#444">[逗比加渣渣]</a></em>
+  <a href="http://www.52fzba.com/thread-4475820-1-1.html"  target="_blank"  title="版块: 美食大战老鼠
+标题: 【渣渣】致猫叔
+发表: 逗比加渣渣 (2015-11-22 09:03)
+浏览: 26次
+回复:  102384026152 (2015-11-22 09:31)
+回复: 9次" name="xxx">【渣渣】致猫叔</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=48344" target="_blank" style="color:#444">[柠七呦ゐ]</a></em>
+  <a href="http://www.52fzba.com/thread-4475224-1-1.html"  target="_blank"  title="版块: 小游戏修改交流
+标题: 枪林弹雨柠熙4.0正式版辅助
+发表: 柠七呦ゐ (2015-11-22 08:11)
+浏览: 130次
+回复:  haohao123 (2015-11-22 09:55)
+回复: 20次" name="xxx">枪林弹雨柠熙4.0正式版辅助</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=374772" target="_blank" style="color:#444">[2445339464]</a></em>
+  <a href="http://www.52fzba.com/thread-4475209-1-1.html"  target="_blank"  title="版块: 美食大战老鼠
+标题: 谁有SPT啊
+发表: 2445339464 (2015-11-22 08:09)
+浏览: 4次
+回复:  动感光波biubiu~ (2015-11-22 08:13)
+回复: 1次" name="xxx">谁有SPT啊</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=232596" target="_blank" style="color:#444">[动感光波biubiu~]</a></em>
+  <a href="http://www.52fzba.com/thread-4475194-1-1.html"  target="_blank"  title="版块: 影视推荐
+标题: 抢劫--英语中字HD高清720P---百度云在线播放
+发表: 动感光波biubiu~ (2015-11-22 08:08)
+浏览: 2次
+回复:  动感光波biubiu~ (2015-11-22 08:10)
+回复: 1次" name="xxx">抢劫--英语中字HD高清720P---百 ...</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=120510" target="_blank" style="color:#444">[消失的路人甲]</a></em>
+  <a href="http://www.52fzba.com/thread-4474919-1-1.html"  target="_blank"  title="版块: 小游戏修改交流
+标题: 求帮下弄个奥奇传说桌面版
+发表: 消失的路人甲 (2015-11-22 07:46)
+浏览: 13次
+回复:  ！@！ (2015-11-22 08:28)
+回复: 2次" name="xxx">求帮下弄个奥奇传说桌面版</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=232596" target="_blank" style="color:#444">[动感光波biubiu~]</a></em>
+  <a href="http://www.52fzba.com/thread-4474574-1-1.html"  target="_blank"  title="版块: 影视推荐
+标题: 玩命速递：重启之战 1080P  百度云在线播放+BT
+发表: 动感光波biubiu~ (2015-11-22 07:18)
+浏览: 5次
+回复:  动感光波biubiu~ (2015-11-22 07:22)
+回复: 1次" name="xxx">玩命速递：重启之战 1080P  百度 ...</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=232596" target="_blank" style="color:#444">[动感光波biubiu~]</a></em>
+  <a href="http://www.52fzba.com/thread-4474523-1-1.html"  target="_blank"  title="版块: 影视推荐
+标题: 笔仙魔咒-----高清   百度云在线播放+BT
+发表: 动感光波biubiu~ (2015-11-22 07:14)
+浏览: 7次
+回复:  动感光波biubiu~ (2015-11-22 07:19)
+回复: 1次" name="xxx">笔仙魔咒-----高清   百度云在线 ...</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=375606" target="_blank" style="color:#444">[qwefgg]</a></em>
+  <a href="http://www.52fzba.com/thread-4472302-1-1.html"  target="_blank"  title="版块: 华人DNF
+标题: 我想要辅助
+发表: qwefgg (2015-11-22 04:18)
+浏览: 10次
+回复:  动感光波biubiu~ (2015-11-22 07:03)
+回复: 1次" name="xxx">我想要辅助</a>
+              </li>
+
+</ol>
+</div>
+</div>
+</div>
+<div class="nge_thread" style="width:33.9%;">
+<div class="nge_border">
+<div class="nge_header">最新回复</div>
+<div class="module cl xl xl1 ng_list_bg"  style="padding:5px;">
+            <ol>              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=112875" target="_blank" style="color:#444">[2015审判者]</a></em>
+  <a href="http://www.52fzba.com/thread-3258894-1-1.html"  target="_blank"  style="font-weight: bold;color: #EE1B2E" title="版块: 社区公告
+标题: （必看）论坛大部分规定集合帖
+发表: 2015审判者 (2015-09-08 13:50)
+浏览: 2862次
+回复:  hao770561454 (2016-03-18 13:39)
+回复: 59次" name="xxx">（必看）论坛大部分规定集合帖</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=332785" target="_blank" style="color:#444">[无极丶]</a></em>
+  <a href="http://www.52fzba.com/thread-4341524-1-1.html"  target="_blank"  title="版块: 英雄联盟
+标题: 【LOL】 落月自动切牌工具v1.5
+发表: 无极丶 (2015-11-12 00:17)
+浏览: 244次
+回复:  woaini123zxc (2015-11-22 09:58)
+回复: 13次" name="xxx">【LOL】 落月自动切牌工具v1.5</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=37610" target="_blank" style="color:#444">[瑾哥辅助2014]</a></em>
+  <a href="http://www.52fzba.com/thread-4168342-1-1.html"  target="_blank"  title="版块: 造梦西游4
+标题: 【2JB+变态VIP】造梦西游4瑾哥辅助贺羊年豪华版V5.7
+发表: 瑾哥辅助2014 (2015-11-01 14:44)
+浏览: 2262次
+回复:  1321910637 (2015-11-22 09:57)
+回复: 451次" name="xxx">【2JB+变态VIP】造梦西游4瑾哥辅 ...</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=48344" target="_blank" style="color:#444">[柠七呦ゐ]</a></em>
+  <a href="http://www.52fzba.com/thread-4475224-1-1.html"  target="_blank"  title="版块: 小游戏修改交流
+标题: 枪林弹雨柠熙4.0正式版辅助
+发表: 柠七呦ゐ (2015-11-22 08:11)
+浏览: 130次
+回复:  haohao123 (2015-11-22 09:55)
+回复: 20次" name="xxx">枪林弹雨柠熙4.0正式版辅助</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=37798" target="_blank" style="color:#444">[丿煞彡翼]</a></em>
+  <a href="http://www.52fzba.com/thread-4476147-1-1.html"  target="_blank"  title="版块: 英雄联盟
+标题: 求lol月光宝盒v3 5.21 A破解办
+发表: 丿煞彡翼 (2015-11-22 09:32)
+浏览: 13次
+回复:  102384026152 (2015-11-22 09:54)
+回复: 3次" name="xxx">求lol月光宝盒v3 5.21 A破解办</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=347678" target="_blank" style="color:#444">[傻♂小仔]</a></em>
+  <a href="http://www.52fzba.com/thread-4415262-1-1.html"  target="_blank"  title="版块: 美食大战老鼠
+标题: 谁还会SPT啊？？？
+发表: 傻♂小仔 (2015-11-17 19:45)
+浏览: 117次
+回复:  jlh (2015-11-22 09:54)
+回复: 10次" name="xxx">谁还会SPT啊？？？</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=49229" target="_blank" style="color:#444">[残霞.No1]</a></em>
+  <a href="http://www.52fzba.com/thread-235499-1-1.html"  target="_blank"  title="版块: 造梦西游3
+标题: 造梦西游2极品账号[第三期]
+发表: 残霞.No1 (2014-09-07 08:24)
+浏览: 2297次
+回复:  1013412228@qq.c (2015-11-22 09:53)
+回复: 32次" name="xxx">造梦西游2极品账号[第三期]</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=362870" target="_blank" style="color:#444">[天天EXO]</a></em>
+  <a href="http://www.52fzba.com/thread-4388395-1-1.html"  target="_blank"  title="版块: 美食大战老鼠
+标题: 无双铺助1.25
+发表: 天天EXO (2015-11-15 18:17)
+浏览: 1310次
+回复:  jlh (2015-11-22 09:52)
+回复: 259次" name="xxx">无双铺助1.25</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=347473" target="_blank" style="color:#444">[半夏时光丶呵]</a></em>
+  <a href="http://www.52fzba.com/thread-4447865-1-1.html"  target="_blank"  title="版块: 英雄联盟
+标题: LOL金牌网吧特权11.19免费使用
+发表: 半夏时光丶呵 (2015-11-20 03:48)
+浏览: 753次
+回复:  2207494995qq (2015-11-22 09:52)
+回复: 186次" name="xxx">LOL金牌网吧特权11.19免费使用</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=332785" target="_blank" style="color:#444">[无极丶]</a></em>
+  <a href="http://www.52fzba.com/thread-4388429-1-1.html"  target="_blank"  title="版块: QQ技术
+标题: 活动免费领取97天好莱坞会员
+发表: 无极丶 (2015-11-15 18:32)
+浏览: 2142次
+回复:  2502630964 (2015-11-22 09:51)
+回复: 551次" name="xxx">活动免费领取97天好莱坞会员</a>
+              </li>
+
+</ol>
+</div>
+</div>
+</div>
+<div class="nge_thread">
+<div class="nge_border">
+<div class="nge_header">热门主题</div>
+<div class="module cl xl xl1 ng_list_bg"  style="padding:5px;">
+            <ol>              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=332785" target="_blank" style="color:#444">[无极丶]</a></em>
+  <a href="http://www.52fzba.com/thread-4388429-1-1.html"  target="_blank"  title="版块: QQ技术
+标题: 活动免费领取97天好莱坞会员
+发表: 无极丶 (2015-11-15 18:32)
+浏览: 2142次
+回复:  2502630964 (2015-11-22 09:51)
+回复: 551次" name="xxx">活动免费领取97天好莱坞会员</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=362870" target="_blank" style="color:#444">[天天EXO]</a></em>
+  <a href="http://www.52fzba.com/thread-4388395-1-1.html"  target="_blank"  title="版块: 美食大战老鼠
+标题: 无双铺助1.25
+发表: 天天EXO (2015-11-15 18:17)
+浏览: 1310次
+回复:  jlh (2015-11-22 09:52)
+回复: 259次" name="xxx">无双铺助1.25</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=332785" target="_blank" style="color:#444">[无极丶]</a></em>
+  <a href="http://www.52fzba.com/thread-4388211-1-1.html"  target="_blank"  title="版块: 英雄联盟
+标题: 【LOL】最新换皮肤工具_不封号
+发表: 无极丶 (2015-11-15 17:53)
+浏览: 1100次
+回复:  戀丄☆ぺ寳赑 (2015-11-22 09:21)
+回复: 232次" name="xxx">【LOL】最新换皮肤工具_不封号</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=120484" target="_blank" style="color:#444">[逆天的文哥]</a></em>
+  <a href="http://www.52fzba.com/thread-4388801-1-1.html"  target="_blank"  title="版块: 爆枪英雄
+标题: 【回复2JB】爆枪英雄文哥辅助V6.2最强辅助来袭[14项新修改开启逆天]
+发表: 逆天的文哥 (2015-11-15 21:03)
+浏览: 1005次
+回复:  S1324537116 (2015-11-22 10:02)
+回复: 187次" name="xxx">【回复2JB】爆枪英雄文哥辅助V6. ...</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=347473" target="_blank" style="color:#444">[半夏时光丶呵]</a></em>
+  <a href="http://www.52fzba.com/thread-4447865-1-1.html"  target="_blank"  title="版块: 英雄联盟
+标题: LOL金牌网吧特权11.19免费使用
+发表: 半夏时光丶呵 (2015-11-20 03:48)
+浏览: 775次
+回复:  q1069152019 (2015-11-22 10:00)
+回复: 187次" name="xxx">LOL金牌网吧特权11.19免费使用</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=135298" target="_blank" style="color:#444">[苏晨WangLuo]</a></em>
+  <a href="http://www.52fzba.com/thread-4388944-1-1.html"  target="_blank"  title="版块: QQ技术
+标题: 开通官方已取消的超级QQ（带功能）
+发表: 苏晨WangLuo (2015-11-15 22:37)
+浏览: 1019次
+回复:  落泪无痕 (2015-11-22 09:50)
+回复: 172次" name="xxx">开通官方已取消的超级QQ（带功能 ...</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=347473" target="_blank" style="color:#444">[半夏时光丶呵]</a></em>
+  <a href="http://www.52fzba.com/thread-4407731-1-1.html"  target="_blank"  title="版块: 穿越火线
+标题: 11-17落叶插件1.5破解版，方块透视+自瞄，已测试稳定
+发表: 半夏时光丶呵 (2015-11-17 06:05)
+浏览: 498次
+回复:  754558184 (2015-11-22 08:46)
+回复: 109次" name="xxx">11-17落叶插件1.5破解版，方块透 ...</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=336320" target="_blank" style="color:#444">[我是一个渣渣]</a></em>
+  <a href="http://www.52fzba.com/thread-4386774-1-1.html"  target="_blank"  title="版块: 美食大战老鼠
+标题: 力争做美食最好辅助！破晓辅助V1.4.2强势来袭！*改良特级版本*·破晓技术组（飞企）
+发表: 我是一个渣渣 (2015-11-15 14:28)
+浏览: 1192次
+回复:  不必再见 (2015-11-21 23:30)
+回复: 104次" name="xxx">力争做美食最好辅助！破晓辅助V1 ...</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=274307" target="_blank" style="color:#444">[咖啡茶]</a></em>
+  <a href="http://www.52fzba.com/thread-4429878-1-1.html"  target="_blank"  title="版块: 美食大战老鼠
+标题: 无聊的东西，可看可不看~~~
+发表: 咖啡茶 (2015-11-18 21:45)
+浏览: 427次
+回复:  cxzsdfsertsfs (2015-11-22 09:07)
+回复: 104次" name="xxx">无聊的东西，可看可不看~~~</a>
+              </li>
+              <li>
+      <em class="nge_post_author"><a href="http://www.52fzba.com/home.php?mod=space&amp;uid=366227" target="_blank" style="color:#444">[1626761369]</a></em>
+  <a href="http://www.52fzba.com/thread-4401566-1-1.html"  target="_blank"  title="版块: 游戏修改教程
+标题: 11.16【枪林弹雨】可用代码(部分)====转自各位大神的帖子里，本人只是搬运工！嘎嘎
+发表: 1626761369 (2015-11-16 20:05)
+浏览: 315次
+回复:  动感光波biubiu~ (2015-11-22 08:28)
+回复: 101次" name="xxx">11.16【枪林弹雨】可用代码(部分 ...</a>
+              </li>
+
+</ol>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+<div style="clear:both; height:0px; margin:0; padding:0; width:0; border:none; overflow:hidden;">&nbsp;</div>
+</div>
+    
+
+<div class="fl bm">
+<div class="bm bmw  flg cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_15_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_15');" />
+</span>
+<span class="y">分区版主: <a href="http://www.52fzba.com/home.php?mod=space&username=ubuntu" class="notabs" c="1">ubuntu</a></span><h2><a href="http://www.52fzba.com/forum.php?gid=15" style="">社区广场</a></h2>
+</div>
+<div id="category_15" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-17-1.html"><img src="http://img.52fzba.com/data/attachment/common/70/common_17_icon.jpg" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-17-1.html">疑问求助</a><em class="xw0 xi1" title="今日"> (8)</em></dt>
+<dd><em>主题: 4454</em>, <em>帖数: <span title="36037">3万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4476248&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:40">23&nbsp;分钟前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-18-1.html"><img src="http://img.52fzba.com/data/attachment/common/6f/common_18_icon.jpg" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-18-1.html">社区公告</a><em class="xw0 xi1" title="今日"> (17)</em></dt>
+<dd><em>主题: 430</em>, <em>帖数: <span title="17316">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=2405984&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:31">半小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-19-1.html"><img src="http://img.52fzba.com/data/attachment/common/1f/common_19_icon.jpg" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-19-1.html">申请专区</a><em class="xw0 xi1" title="今日"> (2)</em></dt>
+<dd><em>主题: 2773</em>, <em>帖数: <span title="23743">2万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4469798&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 00:05">9&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-93-1.html"><img src="http://img.52fzba.com/data/attachment/common/98/common_93_icon.jpg" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-93-1.html">投诉建议</a></dt>
+<dd><em>主题: 3128</em>, <em>帖数: <span title="33918">3万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4465701&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 12:18">昨天&nbsp;12:18</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+</table>
+</div>
+</div><div class="bm bmw  flg cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_74_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_74');" />
+</span>
+<h2><a href="http://www.52fzba.com/forum.php?gid=74" style="">游戏修改</a></h2>
+</div>
+<div id="category_74" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-75-1.html"><img src="http://img.52fzba.com/data/attachment/common/d0/common_75_icon.jpg" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-75-1.html">小游戏修改交流</a><em class="xw0 xi1" title="今日"> (47)</em></dt>
+<dd><em>主题: 4197</em>, <em>帖数: <span title="168372">16万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4475224&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 10:01">2&nbsp;分钟前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-76-1.html"><img src="http://img.52fzba.com/data/attachment/common/fb/common_76_icon.jpg" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-76-1.html">游戏修改教程</a><em class="xw0 xi1" title="今日"> (7)</em></dt>
+<dd><em>主题: 1450</em>, <em>帖数: <span title="64087">6万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4409656&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:46">17&nbsp;分钟前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-80-1.html"><img src="http://img.52fzba.com/data/attachment/common/f0/common_80_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-80-1.html" style="color: #0000FF;">机甲旋风</a></dt>
+<dd><em>主题: 2018</em>, <em>帖数: <span title="59184">5万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4338943&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 20:09">昨天&nbsp;20:09</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-83-1.html"><img src="http://img.52fzba.com/data/attachment/common/fe/common_83_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-83-1.html">国王的勇士4</a><em class="xw0 xi1" title="今日"> (6)</em></dt>
+<dd><em>主题: 1522</em>, <em>帖数: <span title="55595">5万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4422361&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 08:56">1&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-104-1.html"><img src="http://img.52fzba.com/data/attachment/common/c9/common_104_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-104-1.html">龙斗士</a></dt>
+<dd><em>主题: 2185</em>, <em>帖数: <span title="92968">9万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=17219&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 22:06">昨天&nbsp;22:06</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-105-1.html"><img src="http://img.52fzba.com/data/attachment/common/65/common_105_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-105-1.html">勇士的信仰</a><em class="xw0 xi1" title="今日"> (6)</em></dt>
+<dd><em>主题: 1470</em>, <em>帖数: <span title="73779">7万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4386919&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 08:53">1&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-86-1.html"><img src="http://img.52fzba.com/data/attachment/common/93/common_86_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-86-1.html">造梦江湖</a></dt>
+<dd><em>主题: 411</em>, <em>帖数: <span title="18448">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=36940&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-20 21:35">前天&nbsp;21:35</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-90-1.html"><img src="http://img.52fzba.com/data/attachment/common/86/common_90_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-90-1.html">WPE(封包)</a><em class="xw0 xi1" title="今日"> (3)</em></dt>
+<dd><em>主题: 1169</em>, <em>帖数: <span title="54009">5万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=35930&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 07:06">2&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-91-1.html"><img src="http://img.52fzba.com/data/attachment/common/54/common_91_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-91-1.html">修改器</a><em class="xw0 xi1" title="今日"> (15)</em></dt>
+<dd><em>主题: 1040</em>, <em>帖数: <span title="30797">3万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4469905&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:04">半小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-92-1.html"><img src="http://img.52fzba.com/data/attachment/common/92/common_92_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-92-1.html">造梦西游3</a><em class="xw0 xi1" title="今日"> (10)</em></dt>
+<dd><em>主题: 3099</em>, <em>帖数: <span title="95304">9万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=235499&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 10:00">3&nbsp;分钟前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-97-1.html"><img src="http://img.52fzba.com/data/attachment/common/e2/common_97_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-97-1.html">洛克王国</a></dt>
+<dd><em>主题: 712</em>, <em>帖数: <span title="21706">2万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4469650&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 22:07">昨天&nbsp;22:07</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-108-1.html"><img src="http://img.52fzba.com/data/attachment/common/a3/common_108_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-108-1.html">超合金战记3</a></dt>
+<dd><em>主题: 512</em>, <em>帖数: <span title="32396">3万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=34245&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 13:36">昨天&nbsp;13:36</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-119-1.html"><img src="http://img.52fzba.com/data/attachment/common/07/common_119_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-119-1.html">创世兵魂</a></dt>
+<dd><em>主题: 461</em>, <em>帖数: <span title="21947">2万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=3601975&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 12:36">昨天&nbsp;12:36</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-121-1.html"><img src="http://img.52fzba.com/data/attachment/common/4c/common_121_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-121-1.html">西游大战僵尸2</a></dt>
+<dd><em>主题: 997</em>, <em>帖数: <span title="45732">4万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4469534&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 21:30">昨天&nbsp;21:30</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-122-1.html"><img src="http://img.52fzba.com/data/attachment/common/a0/common_122_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-122-1.html">西游战记</a></dt>
+<dd><em>主题: 742</em>, <em>帖数: <span title="28942">2万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4347254&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 23:36">昨天&nbsp;23:36</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-120-1.html"><img src="http://img.52fzba.com/data/attachment/common/da/common_120_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-120-1.html">淘米游戏</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 371</em>, <em>帖数: <span title="16968">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=3171533&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-15 08:43">7&nbsp;天前</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-271-1.html"><img src="http://img.52fzba.com/data/attachment/common/7f/common_271_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-271-1.html">机甲小子</a></dt>
+<dd><em>主题: 515</em>, <em>帖数: <span title="22512">2万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=236047&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 16:47">昨天&nbsp;16:47</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 43px;">
+<a href="http://www.52fzba.com/forum-126-1.html"><img src="http://img.52fzba.com/data/attachment/common/06/common_126_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 43px;">
+<dt><a href="http://www.52fzba.com/forum-126-1.html">奥拉星</a></dt>
+<dd><em>主题: 2052</em>, <em>帖数: <span title="57954">5万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4466969&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 15:12">昨天&nbsp;15:12</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-272-1.html"><img src="http://img.52fzba.com/data/attachment/common/7a/common_272_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-272-1.html">美食大战老鼠</a><em class="xw0 xi1" title="今日"> (86)</em></dt>
+<dd><em>主题: 2058</em>, <em>帖数: <span title="79001">7万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4475820&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 10:03">19&nbsp;秒前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-128-1.html"><img src="http://img.52fzba.com/data/attachment/common/76/common_128_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-128-1.html">三国小镇2</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 274</em>, <em>帖数: <span title="14316">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4374569&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 20:09">昨天&nbsp;20:09</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-129-1.html"><img src="http://img.52fzba.com/data/attachment/common/d1/common_129_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-129-1.html">我的世界</a><em class="xw0 xi1" title="今日"> (3)</em></dt>
+<dd><em>主题: 800</em>, <em>帖数: <span title="14242">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4414236&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:27">半小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-134-1.html"><img src="http://img.52fzba.com/data/attachment/common/02/common_134_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-134-1.html">火线风暴</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 165</em>, <em>帖数: 8023</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=393121&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 06:55">3&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-135-1.html"><img src="http://img.52fzba.com/data/attachment/common/7f/common_135_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-135-1.html">爆枪英雄</a><em class="xw0 xi1" title="今日"> (33)</em></dt>
+<dd><em>主题: 1205</em>, <em>帖数: <span title="54120">5万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4388801&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 10:02">52&nbsp;秒前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-273-1.html"><img src="http://img.52fzba.com/data/attachment/common/47/common_273_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-273-1.html">武将风云录2</a><em class="xw0 xi1" title="今日"> (2)</em></dt>
+<dd><em>主题: 132</em>, <em>帖数: 3736</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4468555&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 07:33">2&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-280-1.html"><img src="http://img.52fzba.com/data/attachment/common/92/common_92_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-280-1.html">造梦西游4</a><em class="xw0 xi1" title="今日"> (5)</em></dt>
+<dd><em>主题: 1432</em>, <em>帖数: <span title="57848">5万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4168342&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:57">6&nbsp;分钟前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-284-1.html"><img src="http://img.52fzba.com/data/attachment/common/46/common_284_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-284-1.html">英魂之刃</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 508</em>, <em>帖数: <span title="17305">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4470035&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 08:41">1&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-287-1.html"><img src="http://img.52fzba.com/data/attachment/common/91/common_287_icon.png" align="left" alt="" /></a></div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-287-1.html">300英雄</a></dt>
+<dd><em>主题: 55</em>, <em>帖数: 737</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4469056&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 19:47">昨天&nbsp;19:47</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-304-1.html"><img src="http://img.52fzba.com/data/attachment/common/37/common_304_icon.png" align="left" alt="" /></a></div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-304-1.html">火影忍者ol</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 41</em>, <em>帖数: 977</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=3832024&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 15:45">昨天&nbsp;15:45</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-361-1.html"><img src="static/image/common/forum_new.gif" alt="坦克堂" /></a>
+</div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-361-1.html">坦克堂</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 35</em>, <em>帖数: 521</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4377363&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 23:39">昨天&nbsp;23:39</span></a>
+</dd>
+</dl>
+</td>
+<td width="24.9%">&nbsp;</td><td width="24.9%">&nbsp;</td><td width="24.9%">&nbsp;</td></tr></tr>
+</table>
+</div>
+</div><div class="bm bmw  flg cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_324_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_324');" />
+</span>
+<h2><a href="http://www.52fzba.com/forum.php?gid=324" style="">单机游戏</a></h2>
+</div>
+<div id="category_324" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-329-1.html"><img src="http://img.52fzba.com/data/attachment/common/6f/common_329_icon.png" align="left" alt="" /></a></div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-329-1.html">使命召唤</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 5</em>, <em>帖数: 41</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=2955003&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 19:48">昨天&nbsp;19:48</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-331-1.html"><img src="http://img.52fzba.com/data/attachment/common/6d/common_331_icon.png" align="left" alt="" /></a></div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-331-1.html">GTA</a></dt>
+<dd><em>主题: 83</em>, <em>帖数: 1274</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=2545866&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 20:37">昨天&nbsp;20:37</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-332-1.html"><img src="http://img.52fzba.com/data/attachment/common/c0/common_332_icon.png" align="left" alt="" /></a></div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-332-1.html">求生之路</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 11</em>, <em>帖数: 101</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=3810741&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:31">半小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-330-1.html"><img src="http://img.52fzba.com/data/attachment/common/fe/common_330_icon.png" align="left" alt="" /></a></div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-330-1.html">泰拉瑞亚</a></dt>
+<dd><em>主题: 37</em>, <em>帖数: 637</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=2695491&amp;goto=lastpost#lastpost">最后发表: 2015-11-11 01:49</a>
+</dd>
+</dl>
+</td>
+</tr>
+</table>
+</div>
+</div><div class="bm bmw  flg cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_113_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_113');" />
+</span>
+<h2><a href="http://www.52fzba.com/forum.php?gid=113" style="">手机游戏</a></h2>
+</div>
+<div id="category_113" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-114-1.html"><img src="http://img.52fzba.com/data/attachment/common/5f/common_114_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-114-1.html">天天酷跑</a></dt>
+<dd><em>主题: 1793</em>, <em>帖数: <span title="59514">5万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4468367&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 22:58">昨天&nbsp;22:58</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-115-1.html"><img src="http://img.52fzba.com/data/attachment/common/2b/common_115_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-115-1.html">雷霆战机</a></dt>
+<dd><em>主题: 83</em>, <em>帖数: 4956</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=3810824&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-19 20:56">3&nbsp;天前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-124-1.html"><img src="http://img.52fzba.com/data/attachment/common/c8/common_124_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-124-1.html">天天炫斗</a></dt>
+<dd><em>主题: 34</em>, <em>帖数: 2211</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=257541&amp;goto=lastpost#lastpost">最后发表: 2015-4-5 20:32</a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 40px;">
+<a href="http://www.52fzba.com/forum-118-1.html"><img src="http://img.52fzba.com/data/attachment/common/5e/common_118_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 40px;">
+<dt><a href="http://www.52fzba.com/forum-118-1.html">手机游戏</a><em class="xw0 xi1" title="今日"> (3)</em></dt>
+<dd><em>主题: 1176</em>, <em>帖数: <span title="16402">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4469169&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 20:09">昨天&nbsp;20:09</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+</table>
+</div>
+</div><div class="bm bmw  flg cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_1_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_1');" />
+</span>
+<h2><a href="http://www.52fzba.com/forum.php?gid=1" style="">热门网游</a></h2>
+</div>
+<div id="category_1" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-2-1.html"><img src="http://img.52fzba.com/data/attachment/common/c8/common_2_icon.gif" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-2-1.html">地下城与勇士</a><em class="xw0 xi1" title="今日"> (12)</em></dt>
+<dd><em>主题: 1328</em>, <em>帖数: <span title="31460">3万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4430528&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 07:54">2&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-3-1.html"><img src="http://img.52fzba.com/data/attachment/common/ec/common_3_icon.jpg" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-3-1.html">穿越火线</a><em class="xw0 xi1" title="今日"> (91)</em></dt>
+<dd><em>主题: 3162</em>, <em>帖数: <span title="87059">8万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4465740&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:48">15&nbsp;分钟前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-279-1.html"><img src="http://img.52fzba.com/data/attachment/common/c8/common_2_icon.gif" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-279-1.html">华人DNF</a><em class="xw0 xi1" title="今日"> (6)</em></dt>
+<dd><em>主题: 88</em>, <em>帖数: 1177</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=2887858&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:39">24&nbsp;分钟前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-133-1.html"><img src="http://img.52fzba.com/data/attachment/common/9f/common_133_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-133-1.html">英雄联盟</a><em class="xw0 xi1" title="今日"> (98)</em></dt>
+<dd><em>主题: 1067</em>, <em>帖数: <span title="31613">3万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4341524&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 10:02">1&nbsp;分钟前</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-4-1.html"><img src="http://img.52fzba.com/data/attachment/common/a8/common_4_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-4-1.html">QQ飞车</a><em class="xw0 xi1" title="今日"> (4)</em></dt>
+<dd><em>主题: 699</em>, <em>帖数: <span title="26935">2万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=704728&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 06:33">3&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-360-1.html"><img src="static/image/common/forum_new.gif" alt="台湾dnf" /></a>
+</div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-360-1.html">台湾dnf</a><em class="xw0 xi1" title="今日"> (3)</em></dt>
+<dd><em>主题: 6</em>, <em>帖数: 37</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4447560&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 00:26">9&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td width="24.9%">&nbsp;</td><td width="24.9%">&nbsp;</td></tr></tr>
+</table>
+</div>
+</div><div class="bm bmw  flg cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_5_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_5');" />
+</span>
+<h2><a href="http://www.52fzba.com/forum.php?gid=5" style="">QQ专区</a></h2>
+</div>
+<div id="category_5" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-6-1.html"><img src="http://img.52fzba.com/data/attachment/common/16/common_6_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-6-1.html">QQ技术</a><em class="xw0 xi1" title="今日"> (24)</em></dt>
+<dd><em>主题: 3296</em>, <em>帖数: <span title="195507">19万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4388429&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:51">12&nbsp;分钟前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-27-1.html"><img src="http://img.52fzba.com/data/attachment/common/02/common_27_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-27-1.html">QQ农牧场</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 68</em>, <em>帖数: 1682</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=2802316&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-20 19:14">前天&nbsp;19:14</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-30-1.html"><img src="http://img.52fzba.com/data/attachment/common/34/common_30_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-30-1.html">QQ游戏</a></dt>
+<dd><em>主题: 403</em>, <em>帖数: 7596</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=3088287&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 12:53">昨天&nbsp;12:53</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-32-1.html"><img src="http://img.52fzba.com/data/attachment/common/63/common_32_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-32-1.html">QQ资源</a><em class="xw0 xi1" title="今日"> (3)</em></dt>
+<dd><em>主题: 892</em>, <em>帖数: <span title="24590">2万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=3787039&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 02:38">7&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+</table>
+</div>
+</div><div class="bm bmw  flg cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_45_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_45');" />
+</span>
+<span class="y">分区版主: <a href="http://www.52fzba.com/home.php?mod=space&username=%B7%EF%BB%CB%B5%EE%D8%AD%CF%E9%D7%F0" class="notabs" c="1">凤凰殿丨祥尊</a></span><h2><a href="http://www.52fzba.com/forum.php?gid=45" style="">软件专区</a></h2>
+</div>
+<div id="category_45" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 36px;">
+<a href="http://www.52fzba.com/forum-48-1.html"><img src="http://img.52fzba.com/data/attachment/common/64/common_48_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 36px;">
+<dt><a href="http://www.52fzba.com/forum-48-1.html">原创软件</a></dt>
+<dd><em>主题: 267</em>, <em>帖数: 4824</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4168830&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 22:14">昨天&nbsp;22:14</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-46-1.html"><img src="http://img.52fzba.com/data/attachment/common/d9/common_46_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-46-1.html" style="color: #FF0000;">精品软件</a><em class="xw0 xi1" title="今日"> (8)</em></dt>
+<dd><em>主题: 2183</em>, <em>帖数: <span title="45403">4万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=2973559&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 08:29">1&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-85-1.html"><img src="http://img.52fzba.com/data/attachment/common/3e/common_85_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-85-1.html">辅助分享</a><em class="xw0 xi1" title="今日"> (9)</em></dt>
+<dd><em>主题: 941</em>, <em>帖数: <span title="11561">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4470046&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 08:38">1&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 40px;">
+<a href="http://www.52fzba.com/forum-55-1.html"><img src="http://img.52fzba.com/data/attachment/common/b5/common_55_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 40px;">
+<dt><a href="http://www.52fzba.com/forum-55-1.html">电脑技术</a></dt>
+<dd><em>主题: 852</em>, <em>帖数: <span title="14773">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4466501&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 16:07">昨天&nbsp;16:07</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+</table>
+</div>
+</div><div class="bm bmw  flg cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_34_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_34');" />
+</span>
+<span class="y">分区版主: <a href="http://www.52fzba.com/home.php?mod=space&username=%A9e%B2%BB%C1%BC%A1%EF%B0%D7%C0%C7%A4%C5" class="notabs" c="1">〆不良★白狼づ</a></span><h2><a href="http://www.52fzba.com/forum.php?gid=34" style="">易语言专区</a></h2>
+</div>
+<div id="category_34" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-37-1.html"><img src="http://img.52fzba.com/data/attachment/common/a5/common_37_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-37-1.html">易语言源码</a><em class="xw0 xi1" title="今日"> (18)</em></dt>
+<dd><em>主题: 1276</em>, <em>帖数: <span title="46177">4万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4233470&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:11">半小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-333-1.html"><img src="http://img.52fzba.com/data/attachment/common/1c/common_35_icon.png" align="left" alt="" /></a></div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-333-1.html">易语言交流</a><em class="xw0 xi1" title="今日"> (10)</em></dt>
+<dd><em>主题: 734</em>, <em>帖数: 7851</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=10725&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 07:05">2&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-36-1.html"><img src="http://img.52fzba.com/data/attachment/common/19/common_36_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-36-1.html">易语言教程</a><em class="xw0 xi1" title="今日"> (2)</em></dt>
+<dd><em>主题: 312</em>, <em>帖数: 7131</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=1514879&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 06:54">3&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td width="24.9%">&nbsp;</td></tr></tr>
+</table>
+</div>
+</div><div class="bm bmw  flg cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_38_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_38');" />
+</span>
+<span class="y">分区版主: <a href="http://www.52fzba.com/home.php?mod=space&username=%CA%C0%BD%E7%D3%EB%CE%D2%BA%CE%B8%C9%A1%A3" class="notabs" c="1">世界与我何干。</a></span><h2><a href="http://www.52fzba.com/forum.php?gid=38" style="">生活休闲</a></h2>
+</div>
+<div id="category_38" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-39-1.html"><img src="http://img.52fzba.com/data/attachment/common/d6/common_39_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-39-1.html">聊天交友</a></dt>
+<dd><em>主题: <span title="13283">1万</span></em>, <em>帖数: <span title="224433">22万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4463200&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 21:45">昨天&nbsp;21:45</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 32px;">
+<a href="http://www.52fzba.com/forum-270-1.html"><img src="http://img.52fzba.com/data/attachment/common/39/common_270_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 32px;">
+<dt><a href="http://www.52fzba.com/forum-270-1.html">音乐视频</a></dt>
+<dd><em>主题: 2537</em>, <em>帖数: <span title="13130">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4469744&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 22:11">昨天&nbsp;22:11</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-43-1.html"><img src="http://img.52fzba.com/data/attachment/common/17/common_43_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-43-1.html">动漫影视</a><em class="xw0 xi1" title="今日"> (2)</em></dt>
+<dd><em>主题: 3606</em>, <em>帖数: <span title="18142">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4470036&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 00:07">9&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-41-1.html"><img src="http://img.52fzba.com/data/attachment/common/34/common_41_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-41-1.html">小说专区</a><em class="xw0 xi1" title="今日"> (1)</em></dt>
+<dd><em>主题: 1473</em>, <em>帖数: <span title="11311">1万</span></em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4469891&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 00:51">9&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-282-1.html"><img src="http://img.52fzba.com/data/attachment/common/6a/common_282_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-282-1.html">PS交流</a></dt>
+<dd><em>主题: 89</em>, <em>帖数: 841</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=3782910&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-20 00:10">前天&nbsp;00:10</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 40px;">
+<a href="http://www.52fzba.com/forum-277-1.html"><img src="http://img.52fzba.com/data/attachment/common/20/common_277_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 40px;">
+<dt><a href="http://www.52fzba.com/forum-277-1.html">账号共享</a></dt>
+<dd><em>主题: 540</em>, <em>帖数: 2871</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4456294&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 14:30">昨天&nbsp;14:30</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g" style="width: 35px;">
+<a href="http://www.52fzba.com/forum-289-1.html"><img src="http://img.52fzba.com/data/attachment/common/0e/common_285_icon.png" align="left" alt="" /></a></div>
+<dl style="margin-left: 35px;">
+<dt><a href="http://www.52fzba.com/forum-289-1.html">商品交易</a><em class="xw0 xi1" title="今日"> (6)</em></dt>
+<dd><em>主题: 534</em>, <em>帖数: 6717</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4470027&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 09:25">半小时前</span></a>
+</dd>
+</dl>
+</td>
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-286-1.html"><img src="http://img.52fzba.com/data/attachment/common/16/common_286_icon.png" align="left" alt="" /></a></div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-286-1.html">影视推荐</a><em class="xw0 xi1" title="今日"> (7)</em></dt>
+<dd><em>主题: 730</em>, <em>帖数: 7953</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4475194&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-22 08:10">1&nbsp;小时前</span></a>
+</dd>
+</dl>
+</td>
+</tr>
+<tr class="fl_row">
+<td class="fl_g" width="24.9%">
+<div class="fl_icn_g">
+<a href="http://www.52fzba.com/forum-341-1.html"><img src="http://img.52fzba.com/data/attachment/common/3d/common_341_icon.png" align="left" alt="" /></a></div>
+<dl>
+<dt><a href="http://www.52fzba.com/forum-341-1.html">免费福利</a></dt>
+<dd><em>主题: 184</em>, <em>帖数: 5153</em></dd><dd>
+<a href="http://www.52fzba.com/forum.php?mod=redirect&amp;tid=4468333&amp;goto=lastpost#lastpost">最后发表: <span title="2015-11-21 17:34">昨天&nbsp;17:34</span></a>
+</dd>
+</dl>
+</td>
+<td width="24.9%">&nbsp;</td><td width="24.9%">&nbsp;</td><td width="24.9%">&nbsp;</td></tr></tr>
+</table>
+</div>
+</div>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="online" class="bm oll">
+<div class="bm_h">
+<span class="o"><a href="http://www.52fzba.com/forum.php?showoldetails=yes#online" title="收起/展开"><img src="static/image/common/collapsed_yes.gif" alt="收起/展开" /></a></span>
+<h3>
+<strong>
+在线会员
+</strong>
+<span class="xs1">- 总计 <strong>1975</strong> 人在线
+- 最高记录是 <strong>11946</strong> 于 <strong>2015-11-8</strong>.</span>
+</h3>
+</div>
+</div>
+<div class="bm lk">
+<div id="category_lk" class="bm_c ptm">
+<ul class="x mbm cl">
+<li><a href="http://www.52fzba.com" target="_blank" title="我爱辅助">我爱辅助</a></li><li><a href="http://ningbofashionfair.cn/" target="_blank" title="手机qq下载">手机qq下载</a></li><li><a href="http://www.hx95.com" target="_blank" title="华夏联盟">华夏联盟</a></li><li><a href="http://bbs.tyuyan.com/" target="_blank" title="游戏脚本教程">游戏脚本教程</a></li><li><a href="http://www.x5zs.com/" target="_blank" title="炫舞记忆辅助">炫舞记忆辅助</a></li><li><a href="http://www.tdbeta.cn/" target="_blank" title="TD之家">TD之家</a></li><li><a href="http://www.xiaodigu.com/" target="_blank" title="小嘀咕论坛">小嘀咕论坛</a></li><li><a href="http://www.1234wg.com/" target="_blank" title="1234">1234</a></li><li><a href="http://bbs.zn50.com/" target="_blank" title="真牛游戏论坛">真牛游戏论坛</a></li><li><a href="http://www.miuk.cn/" target="_blank" title="虚拟世界">虚拟世界</a></li><li><a href="http://www.bxktv.com" target="_blank" title="战歌网">战歌网</a></li><li><a href="http://www.kuaibbs.com" target="_blank" title="nba录像回放">nba录像回放</a></li><li><a href="http://www.hdwan.net/" target="_blank" title="海盗湾">海盗湾</a></li><li><a href="http://www.mumu168.com/" target="_blank" title="木木游戏网">木木游戏网</a></li><li><a href="http://www.whsfzx.com/" target="_blank" title="gm基地">gm基地</a></li><li><a href="http://bbs.125.la/" target="_blank" title="精易e语言论坛">精易e语言论坛</a></li><li><a href="http://www.kubiwg.com" target="_blank" title="酷比游戏网">酷比游戏网</a></li><li><a href="http://bbs.anjian.com/" target="_blank" title="按键精灵">按键精灵</a></li><li><a href="http://www.qh24.com/" target="_blank" title="艾艾游戏网">艾艾游戏网</a></li><li><a href="http://www.52fzba.com/thread-24839-1-1.html" target="_blank" title="友情链接申请">友情链接申请</a></li><li><a href="http://www.7532.com/" target="_blank" title="亿家辅助网">亿家辅助网</a></li><li><a href="http://www.9ixk.com" target="_blank" title="XK辅助">XK辅助</a></li><li><a href="http://www.txwm.com/" target="_blank" title="天下网盟">天下网盟</a></li><li><a href="http://www.321sq.com/" target="_blank" title="QQ金牌网吧代理">QQ金牌网吧代理</a></li><li><a href="http://www.dnfman.com/" target="_blank" title="dnf辅助">dnf辅助</a></li><li><a href="http://www.mcjd.net/" target="_blank" title="传奇战歌网">传奇战歌网</a></li><li><a href="http://www.sudupan.com/" target="_blank" title="速度盘">速度盘</a></li><li><a href="http://bbs.wg78.com/" target="_blank" title="搜挂网">搜挂网</a></li></ul>
+</div>
+</div>
+
+</div>
+
+</div>
+<script>fixed_top_nv();</script>	</div>
+<div class="wp a_f"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 板块中间 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:970px;height:90px"
+     data-ad-client="ca-pub-6247247262101526"
+     data-ad-slot="1465985150"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="a_fr a_cb"><!-- 广告位：百度和飞天轮播 -->
+<script type="text/javascript">BAIDU_CLB_fillSlot("1078963");</script></div><div class="a_cn"style=""><p class="close" id="ad_corner_close" onclick="setcookie('adclose_44', 1, 86400);this.parentNode.style.display='none'"><a href="javascript:;"><img src="static/image/common/ad_close.gif" /></a></p><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?6b92a602712df3f78bca96f13da7346c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--百度搜索-->
+
+
+</div>
+
+<script type="text/javascript">(function(){var bdcs = document.createElement('script');bdcs.type = 'text/javascript';bdcs.async = true;bdcs.src = "http://znsv.baidu.com/customer_search/api/js?sid=17341399168326249287" + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date()/3600000) + '&callback=znForDz';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bdcs, s);})();</script>
+<script src="source/plugin/baidusubmit/template/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+var bdjq = jQuery.noConflict(true);
+function znForDz(siteConfig){
+    bdjq(function(){
+        var zn = 'http://zhannei.baidu.com/cse/search?s=17341399168326249287';
+        if (siteConfig && siteConfig.resultUrl){
+            zn = 'http://' + siteConfig.resultUrl + '/cse/search?s=17341399168326249287'
+        }
+        var btn = bdjq("#scbar_btn");
+        if (btn.length == 0) {
+            btn = bdjq('button[name="searchsubmit"]');
+        }
+        if (btn.length == 0) {
+            btn = bdjq('input[name="searchsubmit"]');
+        }
+        if (btn.length == 0) {
+            btn = bdjq('#scbar_form input[type="submit"]');
+        }
+        if (btn.length == 0) {
+            btn = bdjq('#scbar_form button');
+        }            
+        if (btn.length > 0) {
+            btn.click(function(event){
+                var mod = bdjq('#scbar_mod').val() || bdjq('form input[name="mod"]').val()
+                var st = '';
+                var txt = bdjq('#scbar_txt').val() || bdjq('form input[name="srchtxt"]').val();
+                var user = '0';
+                if (mod === 'user' && user === '1'){
+                    st = 2;
+                    window.open(zn + "&q=" + encodeURIComponent(txt) + "&fst=" + st + "&partner=discuz");
+                    event.preventDefault();
+                } else if (mod === 'forum'){
+                    window.open(zn + "&q=" + encodeURIComponent(txt) + "&partner=discuz");
+                    event.preventDefault();            
+                }
+
+            });
+        }
+        var hot = bdjq('#scbar_hot a')
+            if (hot.length > 0){
+                hot.click(function(event){
+                var txt = bdjq(this).text();
+                window.open(zn + "&q=" + encodeURIComponent(txt) + "&partner=discuz");
+                event.preventDefault();
+            });
+        }
+    });
+}               
+</script>           <div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="http://wpa.qq.com/msgrd?V=3&amp;Uin=25587237&amp;Site=我爱辅助论坛&amp;Menu=yes&amp;from=discuz" target="_blank" title="QQ"><img src="static/image/common/site_qq.jpg" alt="QQ" /></a><span class="pipe">|</span><a href="plugin.php?id=vu_aboutus:about" >关于我们</a><span class="pipe">|</span><a href="javascript:;"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="http://www.52fzba.com/forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><a href="http://www.52fzba.com/forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><strong><a href="http://www.52fzba.com" target="_blank">我爱辅助论坛</a></strong>
+( <a href="http://www.miitbeian.gov.cn/" target="_blank">苏ICP备12081882号-2 </a> )&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a>&nbsp;<a href="http://addon.discuz.com/?@tongdun.plugin" target="_blank" title="同盾防灌水，杜绝网站不良信息！"><img src="source/plugin/tongdun/tongdun.png" /></a>&nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1TUo" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"9221748","ui":"346963","ty":2,"rt":"forum","md":"index","pn":1,"qq":"011","logo":11},"extraParams":""});</script><script type="text/javascript">
+    /* 创建于 2015-02-16 图+*/
+var cpro_id = "u1955402";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/i.js" type="text/javascript"></script>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"0","bdPos":"right","bdTop":"100"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script></p>
+<p class="xs0">
+GMT+8, 2015-11-22 10:03<span id="debuginfo">
+, Processed in 0.052376 second(s), 23 queries
+, Gzip On.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script type="text/javascript">noticeTitle();</script>
+<script src="data/cache/html5notification.js?TUo" type="text/javascript"></script>
+<script type="text/javascript">
+var h5n = new Html5notification();
+if(h5n.issupport()) {
+h5n.shownotification('notice_system', 'http://www.52fzba.com/home.php?mod=space&do=notice&view=system', 'http://uc.52fzba.com/data/avatar/000/34/69/63_avatar_small.jpg', '系统提醒 (1)', '有新的提醒，快去看看吧');
+}
+</script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '9221748|X3.2|0.6||0|7E12195B784364C09E4B5F305044C90D|346963|18|1448157831|212ab083036181644a8d910b73c704b5|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>
